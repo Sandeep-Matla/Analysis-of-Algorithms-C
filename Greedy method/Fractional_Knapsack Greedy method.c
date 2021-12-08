@@ -1,5 +1,5 @@
 // Greedy method 
-// 0|1 Kanp SAck
+// fractional Kanp SAck
 
 #include<stdio.h>
 
